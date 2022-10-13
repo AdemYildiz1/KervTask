@@ -1,4 +1,4 @@
-Some basic thinks to know about how it works:
+Some basic things to know about how it works:
 
 *Run UI test from tests\ApplyForUXDesignerRoleTest
 *Configure locator and method if needed from POM(pages)
@@ -18,4 +18,4 @@ Some basic thinks to know about how it works:
 NOTE THAT:
 Because captcha not being able to automate 
 submit button for UX Designer application form does not become active.
-So, automation is workin till captcha button.
+So, automation is working till captcha button.
