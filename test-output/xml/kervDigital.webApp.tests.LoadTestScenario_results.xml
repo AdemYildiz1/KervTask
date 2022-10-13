@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Selenium Load Test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="4.988">
+  <properties />
+  
+  
+            <testcase name="testcase" time="3.008" classname="kervDigital.webApp.tests.LoadTestScenario" />
+                <testcase name="testcase" time="1.980" classname="kervDigital.webApp.tests.LoadTestScenario" />
+      
+</testsuite>

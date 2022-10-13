@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Selenium Load Test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="26.928">
+  <properties />
+  
+  
+            <testcase name="applyForUXDesigner" time="14.061" classname="kervDigital.webApp.tests.ApplyForUXDesignerRoleTest" />
+                <testcase name="applyForUXDesigner" time="12.867" classname="kervDigital.webApp.tests.ApplyForUXDesignerRoleTest" />
+      
+</testsuite>
