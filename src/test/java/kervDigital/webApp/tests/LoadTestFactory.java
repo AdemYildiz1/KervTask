@@ -8,9 +8,9 @@ public class LoadTestFactory {
     @Factory
     public Object[] createInstances() {
         WebDriverManager.firefoxdriver().setup();
-        Object[] obj = new Object[2];
+        Object[] obj = new Object[250];
 
-        for (int iter = 0; iter < 2; iter++) {
+        for (int iter = 0; iter < 250; iter++) {
             obj[iter] = new ApplyForUXDesignerRoleTest(new FirefoxDriver());
         }
 
